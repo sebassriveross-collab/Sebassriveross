@@ -1,0 +1,15 @@
+**¿Quién es Alpina?** Alpina es una compañía colombiana de alimentos con un portafolio amplio (lácteos, yogures, avenas, jugos, fórmulas infantiles) del que Alpin Chocolate es una línea específica, no la marca central de comunicación.
+
+**Propósito y filosofía (HECHO, confiabilidad Media).** El propósito declarado por Alpina es nutrir de forma más sostenible y "darle sabor a la vida", con compromisos explícitos de carbono neutralidad y neutralidad plástica [E00d8964a]. En 2024 la compañía ocupó el 2° lugar en el ranking Merco ESG [E70562c92], lo que es un HECHO de reconocimiento externo, aunque no equivale por sí solo a percepción de marca entre consumidores (eso requeriría investigación de consumidor, no un ranking corporativo).
+
+**Cómo quiere ser percibida.** La evidencia recogida (comunicación 2024–2025) muestra a una Alpina que se presenta como:
+- Sostenible y responsable (informes ESG, Fundación Alpina, compromisos de carbono/plástico) [E00d8964a].
+- Innovadora en forma, no solo en fondo: fue de las primeras empresas colombianas en usar IA generativa en una pieza publicitaria en 2025 [E84611921].
+- Cercana y cotidiana: la campaña "La Tía Clara" con Buentipo (2024) apela a un personaje entrañable para incentivar el consumo diario de lácteos [Ec0e4420c].
+- Capaz de generar conversación viral genuina: el fenómeno #Alpilitro/#Alpinito nació del público, no de una pauta planeada, y la marca respondió lanzando una presentación de 1 litro de Alpinito [E238a4ff3].
+
+**Percepción infantil/familiar (HECHO, con matiz).** Alpina y Ramo son percibidas como las marcas más reconocidas por los niños en Colombia según cobertura de prensa económica [Ef7f447fd]. Esto es un activo (top-of-mind infantil) pero también una posible barrera si el objetivo es hacer crecer el consumo entre adolescentes o adultos jóvenes, que suelen distanciarse de marcas percibidas como "de niños" (ver sección 8, Barreras — marcado como HIPÓTESIS).
+
+**Papel de Alpin dentro del portafolio (HECHO).** Dentro del portafolio de Alpina, **Alpinito** (línea láctea/yogur para niños) y **Alpin** (bebida láctea achocolatada lista para tomar, formato lonchera) son productos **distintos** [E73c13a8f]. Toda la actividad de comunicación viral reciente que se pudo verificar (#Alpilitro) corresponde a Alpinito, no a Alpin [E238a4ff3]. No se encontró evidencia de una campaña reciente, sostenida y específica para Alpin Chocolate [E2011a287] — es un HECHO de ausencia de evidencia (ver más en secciones 5 y 14), no una afirmación de que dicha comunicación no exista en absoluto.
+
+**Interpretación (INTERPRETACIÓN).** Alpin parece operar como un producto de portafolio ("hay un Alpina para cada momento del día") más que como una marca con territorio propio y comunicación dedicada, mientras que su "hermano" Alpinito sí ha protagonizado momentos de marca relevantes. Esto es consistente con una compañía-paraguas fuerte (Alpina) y una submarca de producto (Alpin) con identidad más débil, un patrón que se retoma en la sección de Problema de Comunicación.

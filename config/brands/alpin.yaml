@@ -1,0 +1,83 @@
+# Configuración del debrief para Alpin Chocolate (Alpina) — mercado Colombia.
+# Este archivo es el ÚNICO lugar que hay que cambiar para reutilizar el
+# sistema con otra marca: copiar este archivo, ajustar los campos, y correr
+# el pipeline de investigación + build sobre el nuevo --brand.
+
+brand: "Alpina"
+product: "Alpin Chocolate"
+country: "Colombia"
+category: "Bebidas lácteas achocolatadas / listas para tomar"
+structure_file: "debrief_structure.yaml"
+
+competitors:
+  direct:
+    - name: "Milo"
+      owner: "Nestlé"
+      rationale: >
+        Confirmado por investigación: Milo es señalado por prensa especializada
+        y por DANE/cobertura de mercado como una de las marcas líderes de
+        bebidas achocolatadas en Colombia, y compite en el mismo momento de
+        consumo (desayuno/lonchera) y formato cercano (listo para tomar /
+        polvo para preparar en leche).
+  indirect:
+    - name: "Nesquik"
+      owner: "Nestlé"
+      rationale: >
+        Compite en polvo para preparar y en listo para tomar, pero con menor
+        evidencia de peso competitivo específico en Colombia frente a Milo
+        y Chocolisto en las fuentes consultadas.
+    - name: "Chocolisto"
+      owner: "Compañía Nacional de Chocolates (Grupo Nutresa)"
+      rationale: >
+        CORRECCIÓN A LA CLASIFICACIÓN INICIAL DEL BRIEF: la investigación
+        encontró que Chocolisto es señalado repetidamente (DANE/prensa) como
+        marca líder de bebidas achocolatadas en Colombia junto con Milo, no
+        como competencia secundaria. Se reclasifica como competencia DIRECTA
+        de facto y así se trata en el análisis, aunque el formato dominante
+        de Chocolisto es polvo/modificador de leche, no listo-para-tomar.
+  additional_found:
+    - name: "Corona"
+      owner: "Nutresa (Compañía Nacional de Chocolates)"
+      rationale: >
+        Aparece como una de las marcas de chocolate para bebida más
+        reconocidas en Colombia, pero en el formato "chocolate de mesa"
+        (barra para preparar chocolate caliente), una ocasión de consumo
+        distinta a la de Alpin (listo para tomar, frío, lonchera). Se incluye
+        como competencia tangencial por ocasión (desayuno con chocolate),
+        no por formato.
+    - name: "Sol"
+      owner: "Casa Luker"
+      rationale: >
+        Mismo caso que Corona: chocolate de mesa, competencia tangencial por
+        ocasión de consumo, no por formato de producto.
+
+priority_sources:
+  alpina:
+    - "https://alpina.com/"
+    - "https://alpina.com/quienes-somos"
+    - "https://alpina.com/marca-alpina"
+    - "https://alpina.com/alpin-chocolate-caja-200-ml"
+    - "https://alpina.com/plusone"
+    - "https://alpina.com/corporativo/inversionistas/informes/informes-de-gestion"
+    - "https://alpina.com/sostenibilidad/informes"
+  competencia:
+    - "https://www.nestle.com.co/"
+    - "https://www.nestle.com.co/brands/milo"
+    - "https://www.nestle.com.co/brands/nesquik"
+    - "https://www.milo.com.co/"
+    - "https://gruponutresa.com/"
+  investigacion_mercado:
+    - "https://www.kantar.com/locations/colombia"
+    - "https://nielseniq.com/global/en/locations/latin-america/colombia/"
+    - "https://trends.google.com/"
+    - "https://www.euromonitor.com/drinking-milk-products-in-colombia/report"
+  institucional:
+    - "https://www.dane.gov.co/"
+    - "https://www.andi.com.co/"
+
+# Nota de acceso: durante la investigación, alpina.com, nestle.com.co,
+# exito.com, larepublica.co, semana.com y trends.google.com devolvieron
+# EGRESS_BLOCKED al intentar fetch directo desde este entorno. La
+# información de esas fuentes se obtuvo vía resultados de búsqueda
+# (snippets indexados) y se marca access_status=blocked en sources.json,
+# nunca como si se hubiera leído la página completa.

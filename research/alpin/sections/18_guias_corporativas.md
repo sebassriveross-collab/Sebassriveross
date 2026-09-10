@@ -1,0 +1,8 @@
+**Base de partida.** No se tuvo acceso directo a los manuales de marca de Alpina/Alpin (alpina.com bloqueado en este entorno), por lo que estas guías son recomendaciones de dirección, no una auditoría del manual de marca existente.
+
+- **Logo/identidad:** mantener visible y prioritaria la relación "Alpin es de Alpina" (el respaldo de marca madre es un activo real, sección 5), pero dar a "Alpin" mayor peso visual propio en el empaque y en piezas de comunicación, en vez de aparecer solo como una variante de sabor dentro del sistema visual genérico de Alpina.
+- **Colores/tipografía:** conservar coherencia con el sistema de color de Alpina (evita confundir al comprador en el punto de venta, donde la categoría es de decisión rápida y hábito, sección 6), pero explorar un acento cromático o tipográfico distintivo para Alpin que lo haga identificable por sí mismo en el lineal, no solo por el logo Alpina.
+- **Packaging:** mantener y comunicar activamente el atributo real y verificado de "no requiere refrigeración" [E191994b1], que hoy es una ventaja funcional poco explotada en la comunicación encontrada.
+- **Consistencia de marca:** cualquier evolución visual de Alpin debe evitar dos errores identificados en la investigación: (1) parecerse demasiado a Alpinito, generando confusión entre ambos productos [E73c13a8f]; (2) copiar códigos visuales de Milo (deportivos/energéticos) que no responden al territorio de cotidianidad propuesto en la sección 17.
+
+**Qué evitar:** cambios de identidad que rompan el reconocimiento heredado de Alpina (activo real, sección 2) solo por "diferenciarse"; la diferenciación debe construirse en territorio de comunicación, no necesariamente en un rediseño radical de identidad.

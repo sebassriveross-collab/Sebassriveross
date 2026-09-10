@@ -1,0 +1,71 @@
+# Estructura genérica de un Debrief de marca.
+# Reutilizable para cualquier marca: el document_builder simplemente recorre
+# esta lista y busca research/<brand>/sections/<id>_<slug>.md para cada una.
+# Para adaptar el debrief a otra marca/categoría no hay que tocar el código,
+# solo (si se quiere) este archivo o uno alternativo referenciado desde
+# config/brands/<brand>.yaml -> structure_file.
+
+sections:
+  - id: 1
+    slug: punto_de_partida
+    title: "Punto de partida"
+  - id: 2
+    slug: descripcion_de_marca
+    title: "Descripción de marca"
+  - id: 3
+    slug: producto
+    title: "Producto"
+  - id: 4
+    slug: promesa_de_valor
+    title: "Promesa de valor"
+  - id: 5
+    slug: situacion_actual
+    title: "Situación actual"
+  - id: 6
+    slug: mercado
+    title: "Mercado"
+  - id: 7
+    slug: competencia
+    title: "Competencia"
+  - id: 8
+    slug: barreras
+    title: "Barreras"
+  - id: 9
+    slug: oportunidades
+    title: "Oportunidades"
+  - id: 10
+    slug: target_demografico
+    title: "Target demográfico"
+  - id: 11
+    slug: target_psicografico
+    title: "Target psicográfico"
+  - id: 12
+    slug: perfil_del_consumidor
+    title: "Perfil del consumidor"
+  - id: 13
+    slug: preferencia_y_recomendacion
+    title: "Preferencia y recomendación"
+  - id: 14
+    slug: problema_de_comunicacion
+    title: "Problema de comunicación"
+  - id: 15
+    slug: objetivo_de_comunicacion
+    title: "Objetivo de comunicación"
+  - id: 16
+    slug: insight
+    title: "Insight"
+  - id: 17
+    slug: oportunidad_creativa
+    title: "Oportunidad creativa"
+  - id: 18
+    slug: guias_corporativas
+    title: "Guías corporativas"
+  - id: 19
+    slug: guias_comunicacionales
+    title: "Guías comunicacionales"
+  - id: 20
+    slug: guias_presupuestales
+    title: "Guías presupuestales"
+  - id: 21
+    slug: conclusion_estrategica
+    title: "Conclusión estratégica"
